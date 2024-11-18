@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 20,
+      "class": "10th Grade",
+      "address": "123 Elm St, Springfield",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 18,
+      "class": "11th Grade",
+      "address": "456 Oak St, Metropolis",
+      "phone": "987-654-3210"
+    }
+  ]
+  
