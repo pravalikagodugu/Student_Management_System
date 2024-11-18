@@ -17,11 +17,11 @@ const App = () => {
             <Link to="/dashboard" className="btn btn-primary mx-2">
               Dashboard
             </Link>
-            <Link to="/students" className="btn btn-primary mx-2">
-              Student List
-            </Link>
             <Link to="/register" className="btn btn-primary mx-2">
               Student Registration
+            </Link>
+            <Link to="/students" className="btn btn-primary mx-2">
+              Student List
             </Link>
           </div>
         </div>
